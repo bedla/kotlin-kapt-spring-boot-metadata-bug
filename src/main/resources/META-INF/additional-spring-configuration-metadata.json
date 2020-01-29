@@ -1,0 +1,17 @@
+{
+  "hints": [
+    {
+      "name": "bar.name",
+      "values": [
+        {
+          "value": "nothing",
+          "description": "Does nothing."
+        },
+        {
+          "value": "something",
+          "description": "Does something."
+        }
+      ]
+    }
+  ]
+}
